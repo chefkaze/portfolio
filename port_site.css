@@ -1,0 +1,84 @@
+h1 {
+    color: white;
+    display: flex;
+    height:100px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+body{
+    
+}
+#cake{
+    position: relative;
+    text-decoration: white;
+    width: 453px;
+    height: 400px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 57px;
+}
+
+.caption{
+    font-size: 181%;
+    position: absolute;
+    top: 154px;
+    right: 1300px;
+    left: 211px;
+    bottom: 10px;
+}
+#flex-container{
+    display: flex;
+    height:600px;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+#me{
+    height: 300px;
+    width: 400px;
+    margin-top: 1px;
+    margin-right: 20px;
+    margin-bottom: 1px;
+    margin-left: 92px;
+}
+
+#wrestle{
+    width: 530px;
+    height: 318px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 102px;
+}
+
+.cap_2{
+    color: black;
+    font-size: 181%;
+    position: absolute;
+    top: 1100px;
+    right: 19px;
+    left: 1100px;
+    bottom: 10px;
+}
+
+#meme{
+    width: 400px;
+    height: 400px;
+    margin-top: 93px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 115px;
+}
+
+.meme_2{
+    color: rgb(255, 0, 255);
+    font-size: 181%;
+    position: absolute;
+    top: 1097px;
+    right: 1274px;
+    left: 551px;
+    bottom: 10px;
+}
